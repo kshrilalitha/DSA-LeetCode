@@ -2,6 +2,7 @@
 //Language: C
 //Approach: Reverse the number
 //Time Complexity: O(log n)
+//Space Complexity: O(1)
 bool isPalindrome(int x) {
     if(x<0)
      return false;
