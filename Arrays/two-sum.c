@@ -3,7 +3,6 @@
 //Approach: Rrute Force
 //Time Complexity: O(n^2)
 //Space Comlexity: O(1)
-
 int* twoSum(int* nums, int numsSize, int target, int* returnSize) {
     static int result[2];
     *returnSize=2;
