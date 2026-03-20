@@ -3,6 +3,7 @@
 // Language: C
 // Time Complexity: O(n)
 // Space Complexity: O(n)
+
 bool isValid(char* s) {
    int n=strlen(s);
    char stack[n];
