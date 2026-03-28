@@ -5,8 +5,7 @@
 // Space Complexity: O(1)
 
 int* plusOne(int* digits, int digitsSize, int* returnSize) {
-
-    for(int i = digitsSize - 1; i >= 0; i--) {
+      for(int i = digitsSize - 1; i >= 0; i--) {
 
         if(digits[i] < 9) {
             digits[i]++;
