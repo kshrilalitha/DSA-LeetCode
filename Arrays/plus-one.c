@@ -3,7 +3,6 @@
 // Topic: Arrays
 // Time Complexity: O(n)
 // Space Complexity: O(1)
-
 int* plusOne(int* digits, int digitsSize, int* returnSize) {
       for(int i = digitsSize - 1; i >= 0; i--) {
 
