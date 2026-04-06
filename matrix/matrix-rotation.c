@@ -3,9 +3,7 @@
 //Topic: Matrix
 //Time Complexity: O(n^2)
 //Space Complexity: O(1)
-
 bool findRotation(int** mat, int matSize, int* matColSize, int** target, int targetSize, int* targetColSize) {
-
      int n=matSize;
      bool r0=true,r90=true,r180=true,r270=true;
      for(int i=0;i<n;i++){
