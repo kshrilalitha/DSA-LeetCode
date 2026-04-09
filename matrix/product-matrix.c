@@ -1,6 +1,5 @@
 // Problem: Construct Product Matrix
 // Platform: LeetCode
-// Language: C
 // Topic: Arrays / Matrix / Prefix-Suffix
 // Time Complexity: O(m × n)
 // Space Complexity: O(m × n)
